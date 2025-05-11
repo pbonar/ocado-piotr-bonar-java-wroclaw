@@ -214,12 +214,6 @@ public class PaymentOptimizer {
         }
 
         // Print final results
-//        System.out.println("Order assignments:");
-//        for (Order o : orders) {
-//            System.out.println(o.id + ": " + o.chosenMethod + ", paid " + o.paidAmount.setScale(2, RoundingMode.HALF_UP));
-//        }
-
-//        System.out.println("\nPayment method totals:");
         for (Map.Entry<String, BigDecimal> e : totals.entrySet()) {
             System.out.println(e.getKey() + ": " + e.getValue().setScale(2, RoundingMode.HALF_UP));
         }
