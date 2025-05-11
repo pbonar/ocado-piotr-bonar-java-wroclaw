@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PaymentOptimizerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-11T21:23:21.208Z" hostname="Piotrs-MacBook-Pro.local" time="0.021">
+  <properties/>
+  <testcase name="testExtractJsonBlocks()" classname="PaymentOptimizerTest" time="0.012"/>
+  <testcase name="testExtractPromotions()" classname="PaymentOptimizerTest" time="0.001"/>
+  <testcase name="testPaymentMethodConstructor()" classname="PaymentOptimizerTest" time="0.004"/>
+  <testcase name="testExtractString()" classname="PaymentOptimizerTest" time="0.001"/>
+  <testcase name="testOrderConstructor()" classname="PaymentOptimizerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
